@@ -1,2 +1,2 @@
 # BinarySearchTree
-Java implementation of Binary Search Tree (August 2021)
+Java implementation of Binary Search Tree
